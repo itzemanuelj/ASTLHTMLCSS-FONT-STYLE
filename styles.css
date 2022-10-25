@@ -1,0 +1,39 @@
+/* 1. Fill in the blank to create a class that displays text in italic. */
+.special {
+  font-style: italic;
+}
+/* 2. What HTML tag is the alternative to <i>? */
+/* <em> */
+/* 3. What HTML tag is the alternative to <b>? */
+/* <strong> */
+/* code onto the screen to create a class of paragraph named "emphasized" that is italicized. */
+p.emphasized {
+    font-size: italic;
+}
+.example {
+    font-style: italic;
+}
+
+p.normal {
+    font-style: normal;
+}
+  
+p.italic {
+    font-style: italic;
+}
+  
+p.oblique {
+    font-style: oblique;
+}
+
+/* Create a class not tied to an element, named "special," that specifies italic. */
+.special {
+    font-style: italic;
+}
+
+/* 8. Create a class that isn't tied to an element. Choose a name. Make it italic. */
+
+.example {
+    font-style: italic;
+}
+
